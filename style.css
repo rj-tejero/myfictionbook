@@ -67,6 +67,7 @@ button {
 }
 
 .logo {
+  cursor: pointer;
   max-width: 35px; 
   margin-right: 10px;
 }
