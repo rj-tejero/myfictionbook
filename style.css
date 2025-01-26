@@ -84,3 +84,10 @@ button {
 p {
   text-align: justify;
 }
+
+.comment {
+  text-align: left;
+  margin-top: -0.7em;
+  font-style: italic;
+  font-weight: normal;
+}
