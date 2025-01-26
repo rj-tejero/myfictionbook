@@ -91,3 +91,22 @@ p {
   font-style: italic;
   font-weight: normal;
 }
+
+/* SITE-DOWN */
+
+.site-down {
+	font-weight: normal;
+	gap: 1.75rem;
+	margin-bottom: 0.5rem;
+	margin-top: 0.75rem;
+}
+
+.downtime {
+	text-align: center;
+	display: block;
+	justify-content: center;
+}
+
+.downtime-pic {
+	border-radius: 1rem;
+}
