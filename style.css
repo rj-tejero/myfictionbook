@@ -69,6 +69,9 @@ button {
 
 .book {
   cursor: pointer;
+  padding: 0;
+  margin-top: 0.2rem;
+  margin-bottom: 0.5rem;
 }
 
 .logo {
@@ -84,11 +87,12 @@ button {
 
 .title2 {
   margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0.2rem;
 }
 
 p {
   text-align: justify;
+  margin-top: 0.5rem;
 }
 
 .comment {
