@@ -67,6 +67,10 @@ button {
 	  margin-top: 0.3rem;
 }
 
+.book {
+  cursor: pointer;
+}
+
 .logo {
   cursor: pointer;
   max-width: 35px; 
@@ -74,12 +78,13 @@ button {
 }
 
 .title1 {
-  margin-top: -2em;
-  margin-bottom: -1.25em;
+  margin-top: -2rem;
+  margin-bottom: -1.25rem;
 }
 
 .title2 {
-  margin-top: -1.25em;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 p {
@@ -91,6 +96,19 @@ p {
   margin-top: -0.7em;
   font-style: italic;
   font-weight: normal;
+}
+
+.icon {
+  display: flex;
+	height: 8rem;
+  margin-left: 0.85em;
+  margin-right: 0.25em;
+  border-radius: 6rem;
+}
+
+.photo {
+  cursor: pointer;
+  display: flex;
 }
 
 /* SITE-DOWN */
